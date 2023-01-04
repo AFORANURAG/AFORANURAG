@@ -1,5 +1,5 @@
 ### Hello there 👋
- I'm Anurag Upadhyay
+  <H1> I'm Anurag Upadhyay </H1>
 <!--
 **AFORANURAG/AFORANURAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFORANURAG&show_icons=true&theme=transparent)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFORANURAG)](https://github.com/AFORANURAG/github-readme-stats)
-Under Construction
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFORANURAG&count_private=true)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
