@@ -1,9 +1,12 @@
-<h5>
-Welcome to my GitHub repository! I'm excited to share my projects and code with you. I hope you find something here that interests you and that 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+I+Anurag+Upadhyay;I+Hope+You+Are+In+Your+Best+Health)](https://git.io/typing-svg)
+
+<h4>
+Welcome To My Github Repository.I'm excited to share my projects and code with you. I hope you find something here that interests you and that 
 
 you're able to learn something new. If you have any questions or feedback, feel free to reach out and let me know. Thanks for stopping by and I 
 hope you enjoy exploring my work!
- </h5>
+ </h4>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
