@@ -1,3 +1,10 @@
+<h5>
+Welcome to my GitHub repository! I'm excited to share my projects and code with you. I hope you find something here that interests you and that 
+
+you're able to learn something new. If you have any questions or feedback, feel free to reach out and let me know. Thanks for stopping by and I 
+hope you enjoy exploring my work!
+ </h5>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -24,12 +31,10 @@
 </div>
 
 <h1>
-  hey there
+  Hello , I hope you are in your best health.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+  
   
   <img src="https://media1.giphy.com/media/WTO8QA0mX2Cfw5vhkp/giphy.gif?cid=ecf05e47atxvuvsuz51odfwilq0x8ki38dfl8u72c25v4yrg&rid=giphy.gif&ct=g">
 </div>
@@ -68,10 +73,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AFORANURAG&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFORANURAG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
   
