@@ -1,9 +1,9 @@
-<h5>
+<h4>
 Welcome to my GitHub repository! I'm excited to share my projects and code with you. I hope you find something here that interests you and that 
 
 you're able to learn something new. If you have any questions or feedback, feel free to reach out and let me know. Thanks for stopping by and I 
 hope you enjoy exploring my work!
- </h5>
+ </h4>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
