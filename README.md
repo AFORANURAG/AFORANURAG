@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+I+Anurag+Upadhyay;I+Hope+You+Are+In+Your+Best+Health)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+I+Am+Anurag+Upadhyay;I+Hope+You+Are+In+Your+Best+Health)](https://git.io/typing-svg)
 
 <h4>
 Welcome To My Github Repository.I'm excited to share my projects and code with you. I hope you find something here that interests you and that 
@@ -33,10 +33,6 @@ hope you enjoy exploring my work!
 <h2> My Email:<span>anuragupadhyay172912313@gmail.com </span> </h2>
 </div>
 
-<h1>
-  Hello , I hope you are in your best health.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
   
   
   <img src="https://media1.giphy.com/media/WTO8QA0mX2Cfw5vhkp/giphy.gif?cid=ecf05e47atxvuvsuz51odfwilq0x8ki38dfl8u72c25v4yrg&rid=giphy.gif&ct=g">
@@ -46,9 +42,9 @@ hope you enjoy exploring my work!
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m Learning Full Stack Web Development and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring The Beauty Of Js.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
@@ -109,14 +105,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+<div align="center">
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AFORANURAG&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AFORANURAG&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFORANURAG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFORANURAG&show_icons=true)
+
+</div>
+
+
 
   
